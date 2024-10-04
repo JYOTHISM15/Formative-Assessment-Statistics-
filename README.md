@@ -20,3 +20,7 @@ Box Plot Analysis
 Normality Check and Transformation
 Correlation Analysis
 Scatter Plot Analysis
+
+Conclusion
+
+This analysis provides insights into the pricing trends of properties in Bangalore, focusing on outlier detection and the effect of transformations on data distribution. The visualizations and statistical analyses conducted throughout the process aid in understanding the dataset better.
