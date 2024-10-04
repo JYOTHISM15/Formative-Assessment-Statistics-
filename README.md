@@ -1,11 +1,15 @@
-###House Price Analysis in Bangalore
-##Overview
+House Price Analysis in Bangalore
+
+Overview
+
 This repository contains an analysis of property prices in Bangalore, specifically focusing on the price per square foot. The goal is to perform exploratory data analysis (EDA), detect and handle outliers, visualize data distributions, and examine correlations between numerical features.
 
-##Dataset
-The dataset used for this analysis is house_price.csv, which includes various features related to house prices in Bangalore. You can download it here.
+Dataset
 
-##Table of Contents
+The dataset used for this analysis is house_price.csv, which includes various features related to house prices in Bangalore. You can download it here.https://drive.google.com/file/d/1UlWRYU0UglE2ex3iFse0J6eCLEU8g98P/view?usp=sharing
+
+Table of Contents
+
 Basic EDA
 Outlier Detection and Removal
 Mean and Standard Deviation
